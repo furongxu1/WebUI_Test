@@ -10,3 +10,4 @@
 
 **report:** 使用HTMLTestRunner作为自动生成测试报告，报告更加美观，更加详细，内容更丰富
 ### 测试报告
+![image](https://github.com/furongxu1/WebUI_Test/blob/master/report/show_report.png)
